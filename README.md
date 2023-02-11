@@ -1,1 +1,1 @@
-# Moved to https://gitlab.com/o69mar/dotfiles
+# Moved to https://codeberg.org/o69mar/dotfiles
